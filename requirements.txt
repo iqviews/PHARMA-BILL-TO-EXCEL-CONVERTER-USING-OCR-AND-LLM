@@ -1,0 +1,5 @@
+pdfplumber
+pytesseract
+pandas
+Pillow
+PyQt5
